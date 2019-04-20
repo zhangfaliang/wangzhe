@@ -1,0 +1,22 @@
+{
+  "usingComponents":{
+    "list":"../../components/index-list/index",
+    "item":"../../components/page-item/index",
+    "video-list":"../../components/video-list/index",
+    "video-item":"../../components/video-item/index",
+    "video-test3":"../../components/video-test-3/index",
+    "video-test4":"../../components/video-test-4/index"
+  },
+
+  "networkTimeout": {
+    "request": 1000,
+    "downloadFile": 1000
+  },
+  "enablePullDownRefresh":false,
+  "navigationBarTitleText": "吃鸡吃鸡",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#eeeeee",
+  "backgroundTextStyle": "light",
+  "debug": true
+}

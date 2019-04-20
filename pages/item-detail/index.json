@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh":false,
+  "navigationBarTitleText": "吃鸡吃鸡",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "backgroundColor": "#eeeeee",
+  "backgroundTextStyle": "light",
+  "debug": true
+}

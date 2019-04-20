@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/EatChicken/index",
+    "pages/index/index",
+    "pages/item-detail/index",
+    "pages/video-detail/index"    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#fff",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 50
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}
