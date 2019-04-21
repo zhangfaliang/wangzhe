@@ -1,10 +1,11 @@
 var pageUrl = {
-  hashStr: "96dfafa6e85e278508bca204cdf6c39591c6264d",
-  urlStr: "https://github.com/zhangfaliang/xiaochengxu-shipin/raw/",
+  hashStr: "",
+  urlStr: "https://github.com/zhangfaliang/wanzheshipin/raw/master",
   fileStr: "/1/",
   sufFixStr: ".mp4",
-  outputLength: 45 //视频数组的长度
+  outputLength: 17 //视频数组的长度
 };
+
 function rand(maxNum, minNum, length) {
   var arr = new Array(length);
   var res = [];
@@ -18,7 +19,7 @@ function rand(maxNum, minNum, length) {
   }
   return res;
 }
-var randomNumList = rand(43, -1, 45);
+var randomNumList = rand(16, 0, 17);
 var common = {
   pageUrl,
   randomNumList
